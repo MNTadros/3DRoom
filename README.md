@@ -1,7 +1,7 @@
 # V.1 3D Model
 
-### Preview link to the model: https://beta.womp.com/preview/943498
+### Preview link to the model: https://beta.womp.com/preview/943566
 
- ![Table Pic](imgs/pic1.webp)
+ ![alt text](imgs/pic2.png)
 
 Source files are in /src
